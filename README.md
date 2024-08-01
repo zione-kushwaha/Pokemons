@@ -18,10 +18,6 @@ The app features a modern and intuitive design, ensuring a pleasant user experie
 - **List Tiles:** Each Pokémon is displayed in a list tile with an image, name, and number of moves.
 - **Detail Dialogs:** Tapping on a Pokémon opens a dialog with detailed information, including stats, abilities, and moves.
 
-## Screenshots
-
-![Pokémon List](path/to/pokemon_list_screenshot.png)
-![Pokémon Details](path/to/pokemon_details_screenshot.png)
 
 ## Getting Started
 
