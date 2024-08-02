@@ -31,7 +31,6 @@ The app features a modern and intuitive design, ensuring a pleasant user experie
 1. Clone the repository:
     ```sh
     git clone https://github.com/yourusername/pokemon-app.git
-    cd pokemon-app
     ```
 2. Install dependencies:
     ```sh
